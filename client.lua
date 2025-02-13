@@ -1,0 +1,6 @@
+Citizen.CreateThread(function()
+    RequestScriptAudioBank("DLC_WALSHEY\\SIRENPACK_ONE", false)
+    RequestScriptAudioBank("DLC_WALSHEY\\SIRENPACK_TWO", false)
+    RequestScriptAudioBank("DLC_WALSHEY\\SIRENPACK_THREE", false)
+    RequestScriptAudioBank("DLC_WALSHEY\\SIRENPACK_FOUR", false)
+end)
