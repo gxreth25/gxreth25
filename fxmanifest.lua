@@ -1,8 +1,8 @@
 fx_version "cerulean"
 game "gta5"
 
-author "James Walsh (Walshey)"
-description "Walshey's Server Sided Sirens (https://discord.gg/ue7W2HE3ej)"
+author "yoji)"
+description yoji scripts)"
 
 client_script "client.lua"
 
